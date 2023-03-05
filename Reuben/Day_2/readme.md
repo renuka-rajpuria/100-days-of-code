@@ -1,5 +1,5 @@
-Day_2 (100 days of code)<br>
-*Topics Covered:*<br>
+**Day_2 (100 days of code)**<br>
+**Topics Covered:**<br>
 printing<br>
 variables-types<br>
 opperators<br>
